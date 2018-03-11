@@ -1,0 +1,5 @@
+v1 batt 0 100
+rs batt in 1e6
+cs in 0 1e-9
+rpcss in out 10
+rl out 0 50
