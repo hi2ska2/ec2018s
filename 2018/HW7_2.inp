@@ -1,0 +1,6 @@
+vbat vdd 0 1.8
+vin in 0 0.1
+rcox in 0 1000000
+rgm out 0 100
+ro out 0 100
+rd vdd out 50
