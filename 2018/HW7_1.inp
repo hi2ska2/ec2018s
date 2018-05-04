@@ -1,0 +1,4 @@
+vbat vdd 0 1.8
+rgm out 0 100
+ro out 0 100
+rd vdd out 50
