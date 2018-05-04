@@ -1,0 +1,5 @@
+vtest out 0 1.0
+rgm out source 100
+ro out source 100
+rs source 0 150 
+rd 0 out 50
